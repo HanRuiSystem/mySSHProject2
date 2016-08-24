@@ -12,6 +12,6 @@
   </head>
   <body>
   <p>hello world! Nick Wang 5</p>
-  <p>Creating a branch is quick</p>
+  <p>Creating a branch is quick2</p>
   </body>
 </html>
